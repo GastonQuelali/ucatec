@@ -48,8 +48,13 @@ permalink:                /:categories/:year-:month-:day-:title:output_ext
 
 exclude:
   - _drafts
+  - _others
+  - _posts
 
 collections:
+  sistemas-operativos:
+    output: true
+    permalink: /:collection/:path/
   pages:
     output: true
     permalink: /:collection/:path/
@@ -58,6 +63,7 @@ collections:
     permalink: /:collection/:path/
 
 ordered_collections:
+  - sistemas-operativos
   - posts
   - pages
   - others
