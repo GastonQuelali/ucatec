@@ -1,5 +1,5 @@
 ---
-title: "U2: Medios de Transmisión y Equipos de Red"
+title: "2. Medios de Transmisión y Equipos de Red"
 layout: post
 category: redes
 permalink: /medios-transmision/

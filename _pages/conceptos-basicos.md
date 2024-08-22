@@ -1,5 +1,5 @@
 ---
-title: "U1: Introducción a las redes"
+title: "1. Introducción a las redes"
 author: Gaston Quelali
 date: 2024-08-01
 category: redes
