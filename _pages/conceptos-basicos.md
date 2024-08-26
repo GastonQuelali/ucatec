@@ -5,6 +5,7 @@ date: 2024-08-01
 category: redes
 layout: post
 permalink: /redes/introduccion-a-las-redes/
+weight: 1
 ---
 
 ## 1.1. Conceptos Básicos de Redes

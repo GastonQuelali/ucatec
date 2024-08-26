@@ -5,6 +5,7 @@ date: 2024-08-01
 category: redes
 layout: post
 permalink: /redes/diseno-configuracion/
+weight: 3
 ---
 
 ## 3.1. Diseño de Redes

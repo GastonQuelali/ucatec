@@ -55,9 +55,11 @@ collections:
   sistemas-operativos:
     output: true
     permalink: /:collection/:path/
+    label: 'Sistemas Operativos' 
   pages:
     output: true
     permalink: /:collection/:path/
+    label: 'Redes' 
   others:
     output: true
     permalink: /:collection/:path/

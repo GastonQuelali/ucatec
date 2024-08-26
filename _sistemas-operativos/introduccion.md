@@ -1,10 +1,10 @@
 ---
-title: "Introducción a los Sistemas Operativos"
+title: "U1: Introducción a los Sistemas Operativos"
 author: Gaston Quelali
 date: 2024-08-01
 category: sistemas-operativos
 layout: post
-permalink: /introduccion/
+permalink: /sistemas-operativos/introduccion/
 ---
 
 ### UNIDAD I: Introducción a los Sistemas Operativos

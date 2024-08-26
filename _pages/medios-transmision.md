@@ -3,6 +3,7 @@ title: "2. Medios de Transmisión y Equipos de Red"
 layout: post
 category: redes
 permalink: /medios-transmision/
+weight: 2
 ---
 
 ## 2.1. Medios de Transmisión
