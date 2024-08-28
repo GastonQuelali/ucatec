@@ -5,6 +5,7 @@ date: 2024-08-01
 category: sistemas-operativos
 layout: post
 permalink: /sistemas-operativos/introduccion/
+weight: 1
 ---
 
 ### UNIDAD I: Introducción a los Sistemas Operativos

@@ -4,7 +4,7 @@ author: Gaston Quelali
 date: 2024-08-01
 layout: post
 permalink: /sistemas-operativos/sincronizacion-comunicacion/
-weight: 1
+weight: 2
 ---
 
 # Unidad 3: Sincronización y Comunicación de Procesos
@@ -48,12 +48,12 @@ Los problemas clásicos de sincronización son problemas bien conocidos que ilus
 #### 3.3.1. El Problema del Productor-Consumidor
 Este problema describe una situación en la que un productor genera datos que son consumidos por un consumidor. La dificultad radica en coordinar a ambos para que el consumidor no intente consumir datos que no han sido producidos, y que el productor no sobrescriba datos que no han sido consumidos.
 
-- **Práctica Sugerida:** Implementar el problema del productor-consumidor usando semáforos para controlar el acceso al búfer compartido.
+- **Práctica:** Implementar el problema del productor-consumidor usando semáforos para controlar el acceso al búfer compartido.
 
 #### 3.3.2. El Problema de los Filósofos Comensales
 Cinco filósofos se sientan alrededor de una mesa, cada uno con un tenedor a su izquierda y derecha. Para comer, un filósofo necesita ambos tenedores. El problema consiste en evitar que los filósofos caigan en un estado de espera indefinida (deadlock).
 
-- **Práctica Sugerida:** Implementar una solución al problema usando un protocolo de jerarquía de recursos o semáforos.
+- **Práctica:** Implementar una solución al problema usando un protocolo de jerarquía de recursos o semáforos.
 
 #### 3.3.3. El Problema de los Lectores y Escritores
 Este problema involucra un recurso que puede ser leído por múltiples procesos simultáneamente, pero solo puede ser escrito por un proceso a la vez. La dificultad es permitir la máxima concurrencia para lectores mientras se garantiza la exclusión mutua para escritores.
