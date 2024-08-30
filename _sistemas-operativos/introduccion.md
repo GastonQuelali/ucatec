@@ -8,8 +8,6 @@ permalink: /sistemas-operativos/introduccion/
 weight: 1
 ---
 
-### UNIDAD I: Introducción a los Sistemas Operativos
-
 #### 1.1. Introducción
 
 Los sistemas operativos son una parte fundamental del software de un computador, gestionando los recursos de hardware y proporcionando servicios a los programas de aplicación. Actúan como intermediarios entre los usuarios y el hardware del sistema, facilitando la ejecución de tareas y la gestión eficiente de los recursos.

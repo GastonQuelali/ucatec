@@ -7,8 +7,6 @@ permalink: /sistemas-operativos/bloqueos-irreversibles/
 weight: 4
 ---
 
-# **Unidad 4: Bloqueos Irreversibles**
-
 ## **4.1. Bloqueos**
 - **Definición de Bloqueo**:
   - **Analogía**: Imagina que estás en un supermercado y hay una sola caja registradora abierta. Todos los clientes forman una fila. De repente, el cajero se queda sin cambio, y todos deben esperar hasta que lo consigan. Este es un bloqueo temporal. Pero, ¿y si nunca llega el cambio? ¡Eso es un bloqueo irreversible! En sistemas operativos, un bloqueo es cuando los procesos se quedan "atorados" esperando recursos que no pueden obtener.

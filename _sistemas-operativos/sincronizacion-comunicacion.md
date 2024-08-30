@@ -4,10 +4,8 @@ author: Gaston Quelali
 date: 2024-08-01
 layout: post
 permalink: /sistemas-operativos/sincronizacion-comunicacion/
-weight: 2
+weight: 3
 ---
-
-# Unidad 3: Sincronización y Comunicación de Procesos
 
 ## 3.1. Condiciones de Competencia
 
