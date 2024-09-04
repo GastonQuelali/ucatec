@@ -7,7 +7,7 @@ permalink: /sistemas-operativos/gestion-memoria/
 weight: 5
 ---
 
-## **5.1. Gestión de Memoria**
+## 5.1. Gestión de Memoria
 - **Concepto de Memoria en Sistemas Operativos**:
   - **Analogía**: Imagina la memoria de un computador como un gran estante lleno de cajas. Cada caja puede almacenar algo importante, como datos o instrucciones para que el procesador las ejecute. La gestión de la memoria es el proceso mediante el cual el sistema operativo decide qué va en cada caja, cómo acceder a ellas, y cómo liberar espacio cuando ya no se necesiten.
 
@@ -26,7 +26,7 @@ weight: 5
     - **Fragmentación Interna**: Es como tener pequeñas partes de tu estante que están parcialmente llenas y no puedes usarlas para almacenar una nueva caja, incluso si hay espacio suficiente.
     - **Fragmentación Externa**: Es cuando tienes varios espacios vacíos en tu estante, pero están tan dispersos que no puedes usarlos eficientemente para almacenar una caja grande.
 
-## **5.2. Administración de Memoria**
+## 5.2. Administración de Memoria
 - **Asignación de Memoria**:
   - **Asignación Contigua**:
     - **Analogía**: Piensa en reservar un conjunto de casilleros consecutivos para guardar tus pertenencias en un gimnasio. La asignación contigua es similar: se asigna un bloque de memoria consecutiva para un proceso. Esto es simple, pero puede llevar a problemas de fragmentación externa si los bloques libres no son lo suficientemente grandes para los nuevos procesos.

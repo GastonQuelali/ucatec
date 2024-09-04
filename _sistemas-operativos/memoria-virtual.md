@@ -7,7 +7,7 @@ permalink: /sistemas-operativos/memoria-virtual/
 weight: 6
 ---
 
-## **6.1. Estrategias de Búsqueda (Paginación)**
+## 6.1. Estrategias de Búsqueda (Paginación)
 - **Concepto de Paginación**:
   - **Analogía**: Imagina que tu escritorio está lleno de libros abiertos. Como no tienes suficiente espacio, decides solo dejar los más importantes y almacenar los demás en una estantería cercana. Cada vez que necesites un libro que no esté en tu escritorio, debes ir a la estantería a buscarlo. En un sistema operativo, la paginación funciona de manera similar, moviendo fragmentos de datos entre la memoria principal y el almacenamiento secundario según sea necesario.
 
@@ -22,7 +22,7 @@ weight: 6
   - **Buscando en la Estantería**: Al igual que en una biblioteca, la estrategia que uses para buscar un libro influye en cuánto tiempo tardas en encontrarlo. En un sistema, las estrategias de búsqueda determinan cómo el sistema localiza y carga las páginas necesarias en la memoria física.
   - **Paginación Demanda**: Es como traer un libro a tu escritorio solo cuando realmente lo necesitas. La paginación por demanda carga páginas en la memoria solo cuando se requieren, lo que puede reducir el uso innecesario de memoria, pero también puede aumentar los *page faults*.
 
-## **6.2. Algoritmos de Sustitución de Páginas**
+## 6.2. Algoritmos de Sustitución de Páginas
 - **Concepto de Sustitución de Páginas**:
   - **Analogía**: Imagina que tu escritorio está completamente lleno de libros, y necesitas espacio para uno nuevo. Debes decidir cuál de los libros actuales vas a devolver a la estantería para hacer espacio. Los algoritmos de sustitución de páginas en sistemas operativos se encargan de tomar decisiones similares cuando la memoria física está llena y una nueva página necesita ser cargada.
 

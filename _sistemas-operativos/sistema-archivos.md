@@ -7,9 +7,9 @@ permalink: /sistemas-operativos/sistema-archivos/
 weight: 7
 ---
 
-## **7.1. Archivos**
+## 7.1. Archivos
 - **Concepto de Archivo**:
-  - **Analogía**: Piensa en un archivo como en un libro. Un archivo contiene datos, tal como un libro contiene texto, imágenes o diagramas. Estos datos pueden ser cualquier cosa, desde un documento de texto hasta un programa de software.
+  - Analogía**: Piensa en un archivo como en un libro. Un archivo contiene datos, tal como un libro contiene texto, imágenes o diagramas. Estos datos pueden ser cualquier cosa, desde un documento de texto hasta un programa de software.
   
 - **Tipos de Archivos**:
   - **Archivos de Texto**: Como libros llenos de palabras. Contienen datos en un formato legible por humanos.
@@ -28,7 +28,7 @@ weight: 7
   - **Escritura**: Es como agregar nuevas páginas a un libro o editar el contenido existente.
   - **Eliminación**: Como deshacerse de un libro viejo, liberando espacio en el estante.
 
-## **7.2. Directorios**
+## 7.2. Directorios
 - **Concepto de Directorio**:
   - **Analogía**: Imagina que un directorio es como una estantería en una biblioteca. Cada estantería contiene libros (archivos) y puede contener otras estanterías (subdirectorios), organizando todo de manera jerárquica.
 
@@ -45,7 +45,7 @@ weight: 7
   - **Directorio Actual (`.`)**: Es como tu posición actual en la biblioteca.
   - **Directorio Padre (`..`)**: Te lleva a la estantería anterior, como retroceder a la sección de la biblioteca de donde vienes.
 
-## **7.3. Implementación de Sistemas de Archivos**
+## 7.3. Implementación de Sistemas de Archivos**
 - **Estructura de un Sistema de Archivos**:
   - **Analogía**: Un sistema de archivos es como el catálogo de la biblioteca, que sabe dónde está cada libro (archivo) y cómo acceder a él. La implementación de un sistema de archivos involucra la manera en que los datos se organizan, almacenan, y se recuperan en el almacenamiento físico.
 
@@ -70,4 +70,3 @@ weight: 7
 
 - **Seguridad y Permisos**:
   - **Analogía**: Al igual que un sistema de membresía en una biblioteca, la seguridad del sistema de archivos controla quién puede acceder y modificar los archivos, protegiendo los datos de accesos no autorizados.
-
