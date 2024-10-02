@@ -1,6 +1,6 @@
 # Configurations
 title:            Documentación
-longtitle:        Documentaciòn del Segundo semestre del primer modulo
+longtitle:        Documentaciòn del Segundo semestre del segundo modulo
 author:           Gastón Genaro Quelali Calcina
 email:            gaston.quelali@gmail.com
 description: >
@@ -50,8 +50,22 @@ exclude:
   - _drafts
   - _others
   - _posts
+  - _sistemas-operativos
+  - _redes
 
 collections:
+  redes2:
+    output: true
+    permalink: /redes2/:path/
+    label: 'Redes 2'
+  administracion-servidores:
+    output: true
+    permalink: /administracion-servidores/:path/
+    label: 'Administración de Servidores' 
+  lenguajes-programacion:
+    output: true
+    permalink: /:collection/:path/
+    label: 'Lenguajes de Programación'
   sistemas-operativos:
     output: true
     permalink: /:collection/:path/
@@ -65,6 +79,9 @@ collections:
     permalink: /:collection/:path/
 
 ordered_collections:
+  - redes2
+  - administracion-servidores
+  - lenguajes-programacion
   - sistemas-operativos
   - posts
   - pages
