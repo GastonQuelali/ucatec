@@ -51,9 +51,13 @@ exclude:
   - _others
   - _posts
   - _sistemas-operativos
-  - _redes
+  # - _redes
 
 collections:
+  redes:
+    output: true
+    permalink: /_redes/:path/
+    label: 'Redes'
   redes2:
     output: true
     permalink: /redes2/:path/
@@ -79,6 +83,7 @@ collections:
     permalink: /:collection/:path/
 
 ordered_collections:
+  - redes
   - redes2
   - administracion-servidores
   - lenguajes-programacion
